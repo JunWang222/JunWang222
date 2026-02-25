@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jun Wang 👋
 
-<!--
-**JunWang222/JunWang222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSCS Student @ NYU Courant | Distributed Systems | Systems Programming**
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Master's in Computer Science at New York University Courant
+- 🔬 Research: GPU hash table optimization (up to 793x speedup with CUDA)
+- 💻 Systems: Multithreaded programming, file systems, Unix shell implementation
+- ☁️ DevOps: Kubernetes, Docker, Flask microservices
+- 🌱 Currently: Apache Beam open source contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** Java · Python · C · CUDA  
+**Databases:** SQL · PostgreSQL  
+**Tools:** Kubernetes · Docker · Spark · Flink · Git
+
+## Recent Projects
+- 🚀 GPU Hash Table Optimization — 793x speedup via CUDA kernel tuning
+- 🔧 Multithreaded RLE Encoder (nyuenc) — pthread thread pool implementation
+- 📁 FAT32 File Recovery Tool (nyufile) — low-level file system recovery
+- 🐚 Unix Shell (nyush) — signal handling, I/O redirection, job control
