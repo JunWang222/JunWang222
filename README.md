@@ -7,7 +7,6 @@
 - 👩‍🏫 Teaching Assistant for CSCI-GA-1170 Fundamental Algorithms @ NYU
 - 🔬 Research: GPU hash table optimization — 793x speedup with CUDA
 - 💡 Background: NLP research (LLM evaluation), energy systems optimization
-- 🌱 Currently: Apache Beam open source contributor
 
 ## Tech Stack
 **Languages:** Java · Python · C · C++ · SQL  
