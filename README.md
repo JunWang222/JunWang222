@@ -1,4 +1,4 @@
-# Jun Wang 👋
+# Jun(Jenny) Wang 👋
 
 **MSCS Student @ NYU Courant | Distributed Systems | Systems Programming**
 
